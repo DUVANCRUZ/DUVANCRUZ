@@ -19,7 +19,7 @@ Si estás buscando a alguien apasionado, comprometido y dispuesto a asumir cualq
 
 Estoy emocionado por la posibilidad de colaborar contigo y crear algo extraordinario juntos. ¡Vamos a llevar el desarrollo web a un nivel superior!
 
-<img align="center" src="https://media.giphy.com/media/Qc0BxWM9TxljvJug2x/giphy.gif" width="200" />
+<img align="center" src="https://2.bp.blogspot.com/-j9SAzrvG2R4/VqfjfxdvlcI/AAAAAAAAKCw/RpD3CmBTdhM/s1600/Homero-simpson-trabajar-en-casa-productividad.gif" width="200" />
 
 
 
@@ -34,11 +34,11 @@ Estoy emocionado por la posibilidad de colaborar contigo y crear algo extraordin
 
 
 <h3 align="left">Antes de irte, no olvides contactarme en mis otras redes:</h3>
-<img align="center" src="https://media.giphy.com/media/isxmSunZOVKfK/giphy.gif" width="200" />
+<img align="center" src="https://31.media.tumblr.com/507637862ee30caf76145c3f48f9b61b/tumblr_mw9cm8Nf8J1rzfa3ao1_500.gif" width="200" autoplay=true />
 <p align="left">
 
 <a href="https://www.linkedin.com/in/duvan-andres-cruz-mora-85344a222/">
-<img border="0" alt="Linkedin" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+<img border="0" alt="Linkedin" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>s
 </a>
   <a href="duvandres9820@gmail.com">
 <img border="0" alt="Duvandres9820@gmail.com" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
