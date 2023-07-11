@@ -23,9 +23,9 @@ Estoy emocionado por la posibilidad de colaborar contigo y crear algo extraordin
 
 
 
-- 🔭He trajado en un proyecto individual llamado [Foods App](https://github.com/DUVANCRUZ/pifOOD)
+- 🔭He trabajado en un proyecto individual llamado [Foods App](https://github.com/DUVANCRUZ/pifOOD)
 
-- 👯 He trajado en un proyecto grupal llamado [Cafetería Para Celiacos](https://github.com/LMCT04/PF-Henry)
+- 👯 He trabajado en un proyecto grupal llamado [Cafetería Para Celiacos](https://github.com/LMCT04/PF-Henry)
      
 
 
